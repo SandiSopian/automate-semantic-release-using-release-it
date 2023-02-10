@@ -1,5 +1,12 @@
 
 
+## [1.1.0](https://github.com/SandiSopian/automate-semantic-release-using-release-it/compare/1.0.2...1.1.0) (2023-02-10)
+
+
+### Features
+
+* added new package vite js ([9a90e2a](https://github.com/SandiSopian/automate-semantic-release-using-release-it/commit/9a90e2a95d400c5edac7538d55c8ab77b5939094))
+
 ## [1.0.2](https://github.com/SandiSopian/automate-semantic-release-using-release-it/compare/1.0.1...1.0.2) (2023-02-10)
 
 ## 1.0.1 (2023-02-10)
