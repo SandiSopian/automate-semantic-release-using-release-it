@@ -1,6 +1,6 @@
 {
   "name": "automate-semantic-release-using-release-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Another projects vite js using release it for automate versioning",
   "main": "index.js",
   "scripts": {
