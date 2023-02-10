@@ -1,5 +1,13 @@
 
 
+## [1.2.1](https://github.com/SandiSopian/automate-semantic-release-using-release-it/compare/1.2.0...1.2.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* **test:** change tag ([85cf924](https://github.com/SandiSopian/automate-semantic-release-using-release-it/commit/85cf924ea37c0acf8b1e21db1542577d39eff4db))
+* **test:** create new test ([6d4ac60](https://github.com/SandiSopian/automate-semantic-release-using-release-it/commit/6d4ac60a9f0a38a11f5537be739c63243d061124))
+
 ## [1.2.0](https://github.com/SandiSopian/automate-semantic-release-using-release-it/compare/1.1.0...1.2.0) (2023-02-10)
 
 
