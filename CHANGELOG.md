@@ -1,5 +1,7 @@
 
 
+## [1.0.2](https://github.com/SandiSopian/automate-semantic-release-using-release-it/compare/1.0.1...1.0.2) (2023-02-10)
+
 ## 1.0.1 (2023-02-10)
 
 
