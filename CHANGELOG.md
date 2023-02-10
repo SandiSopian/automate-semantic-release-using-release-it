@@ -1,5 +1,12 @@
 
 
+## [1.2.0](https://github.com/SandiSopian/automate-semantic-release-using-release-it/compare/1.1.0...1.2.0) (2023-02-10)
+
+
+### Features
+
+* added new components ([fc1d43d](https://github.com/SandiSopian/automate-semantic-release-using-release-it/commit/fc1d43da0ae67d6acf12f4ac88529e689f42ecef))
+
 ## [1.1.0](https://github.com/SandiSopian/automate-semantic-release-using-release-it/compare/1.0.2...1.1.0) (2023-02-10)
 
 
